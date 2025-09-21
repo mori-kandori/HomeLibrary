@@ -1,0 +1,14 @@
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.exe
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.deps.json
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.runtimeconfig.json
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.dll
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.pdb
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.AssemblyInfoInputs.cache
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.AssemblyInfo.cs
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.dll
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\refint\HomeLibrary.dll
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.pdb
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.genruntimeconfig.cache
+C:\Users\Piska\Desktop\WORK\programmir\proekt\HomeLibrary\HomeLibrary\obj\Debug\net8.0\ref\HomeLibrary.dll
